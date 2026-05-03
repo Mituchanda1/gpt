@@ -1,0 +1,6 @@
+{
+  "name": "OfferGPT - Survey & Reward Platform",
+  "description": "An AI-powered offerwall and survey platform where users earn rewards by completing tasks. Built for scalability and high conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Assistant", "Real-time Dashboard", "Secure Payments"]
+}
